@@ -1,9 +1,10 @@
 .icone-menu{
     width: 100px ;
 }
-.bloco-dois{
+.bloco-dois, .terceiro-bloco, .quarto-bloco, .quinto-bloco{
     margin-top: 50px;
 }
 .card-header{
     background-color: darkslategrey;
 }
+
