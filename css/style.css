@@ -35,17 +35,36 @@ footer{
       color:white;
     background-color: black;
 }
-.b-rodape{
+.b-rodape, .a-botao{
     text-decoration: none;
     color: white;
 }
 
-.b-rodape:hover {
+.b-rodape:hover, .a-botao:hover {
     text-decoration: none;
     color: white;
 }
 .a-slide{
-    color: white
-    ;
+    color: white;
+}
+.texto-um{
+    margin-top: 75px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.titulo-um{
+    margin-left: 350px;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-top: 220px;
+}
+.texto-dois, .texto-tres{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+
 }
   
