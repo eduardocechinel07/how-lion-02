@@ -47,7 +47,7 @@ footer{
 .a-slide{
     color: white;
 }
-.texto-um{
+.texto-um, .card-um{
     margin-top: 75px;
     font-size: 20px;
     font-weight: bold;
@@ -60,11 +60,18 @@ footer{
     color: white;
     margin-top: 220px;
 }
-.texto-dois, .texto-tres{
+.texto-dois, .texto-tres, .card-dois{
     margin-top: 20px;
     font-size: 20px;
     font-weight: bold;
     color: white;
 
+}
+.titulo-dois{
+    margin-left: 475px;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-top: 220px;
 }
   
